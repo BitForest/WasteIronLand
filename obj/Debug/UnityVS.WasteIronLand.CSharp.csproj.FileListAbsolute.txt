@@ -1,0 +1,10 @@
+D:\works\unity\WasteIronLand\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+D:\works\unity\WasteIronLand\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\works\unity\WasteIronLand\Temp\UnityVS_bin\Debug\Assembly-UnityScript-firstpass.dll
+D:\works\unity\WasteIronLand\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\works\unity\WasteIronLand\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\works\unity\WasteIronLand\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\works\unity\WasteIronLand\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+D:\works\unity\WasteIronLand\obj\Debug\UnityVS.WasteIronLand.CSharp.csprojResolveAssemblyReference.cache
+D:\works\unity\WasteIronLand\obj\Debug\Assembly-CSharp.dll
+D:\works\unity\WasteIronLand\obj\Debug\Assembly-CSharp.pdb
