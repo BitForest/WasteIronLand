@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: 0d39bdbcc41b9aa47b7bf665804841ed
+timeCreated: 1432647211
+licenseType: Pro
 PluginImporter:
   serializedVersion: 1
   iconMap: {}
@@ -15,3 +17,4 @@ PluginImporter:
         DefaultValueInitialized: true
   userData: 
   assetBundleName: 
+  assetBundleVariant: 
