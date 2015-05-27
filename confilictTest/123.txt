@@ -1,5 +1,11 @@
 sdfjkhwgklherkj
+<<<<<<< HEAD
 lgkehrlgkherlg
 ekljrghlkjerhgketddd
 lkhgerlkgh
 t
+=======
+lgkehrlgkherlg1234234
+ekljrghlkjerhgker
+234234234
+>>>>>>> 1825ffa57a76fa2fd4fad21753037ea8fb400163
